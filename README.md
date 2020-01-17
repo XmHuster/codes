@@ -1,2 +1,3 @@
 # codes
-Some piece of codes
+This repository includes some piece of small projects.
+
